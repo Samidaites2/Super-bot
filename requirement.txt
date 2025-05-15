@@ -10,7 +10,6 @@ hachoir
 heroku3
 lyricsgenius
 motor
-pillow
 psutil
 pykeyboard
 python-dotenv
